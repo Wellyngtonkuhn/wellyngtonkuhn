@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Wellyngton Kuhn!
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Frontend Developer
-- 
+- 🔭 Apaixonado por tecnologia, viagens e amo cozinhar.
+- 🌱 Frontend Developer.
 
 <div align="center">
   <a href="https://github.com/wellyngtonkuhn">
